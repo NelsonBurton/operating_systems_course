@@ -1,7 +1,7 @@
 # operating_systems_course
 
- ##Introduction to Operating Systems
- ###CS 8803, GT OMSCS
+##Introduction to Operating Systems
+###CS 8803, GT OMSCS
 
 ##My code is for problem sets:
 
